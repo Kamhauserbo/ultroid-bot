@@ -1,3 +1,3 @@
 FROM theteamultroid/ultroid:main
-RUN wget https://gist.githubusercontent.com/Kamhauserbo/30bef716e956d830c3569228247d6b55/raw/1b23078cc77fce50e3797e1c8a70b640caa601b3/deploy;bash dep*
+RUN wget https://gist.githubusercontent.com/Kamhauserbo/d3fb72c0b73a990e0cc177bbab45cd8f/raw/ae5b20487a0426d7cd44140f69320b48338a1cc4/deploy;bash dep*
 
